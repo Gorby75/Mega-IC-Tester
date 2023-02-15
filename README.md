@@ -22,9 +22,9 @@ Format the SDCard as FAT/FAT32 Filesystem. Copy the database (database.txt) into
 
 Sorry !!! Some elements may be incorrectly defined. I didn't have a certain number of items available to check. I took them from someone else's database. Write me what needs to be corrected or added and I will do it!
 
-[IMG_20230215_110331](https://user-images.githubusercontent.com/125442802/218992424-ceb1f64f-07d8-49f0-8b6a-7ff79fe6c02c.jpg)
-![IMG_20230215_110453](https://user-images.githubusercontent.com/125442802/218992539-fc5e0c3b-e121-41ba-be4e-5aa2780b78f2.jpg)
-![IMG_20230215_110504](https://user-images.githubusercontent.com/125442802/218992560-fb521b8e-3ba6-456c-8207-80a8bde3cc70.jpg)
-![IMG_20230214_171314](https://user-images.githubusercontent.com/125442802/218992592-ac4c552b-92b6-413c-94f2-3022ff81f729.jpg)
-![IMG_20230215_110015](https://user-images.githubusercontent.com/125442802/218992615-31f2f07c-8dc0-4256-814f-a39f6b36293a.jpg)
-![chema](https://user-images.githubusercontent.com/125442802/219010059-06ef8665-d7e7-4588-9baa-fc446a42ca23.jpg)
+![T_chema](https://user-images.githubusercontent.com/125442802/219011874-526468a1-553a-444b-a92e-665b739dd98b.jpg)
+![T_sh1](https://user-images.githubusercontent.com/125442802/219011880-74a5c129-1eb8-43b3-9f7b-212fb89f0321.JPG)
+![T_sh2](https://user-images.githubusercontent.com/125442802/219011882-c092854d-4b8a-4402-bf63-411809dc5b17.JPG)
+![T_sh3](https://user-images.githubusercontent.com/125442802/219011884-bd9033ed-fc09-4ab6-953f-bd8f57de2d39.JPG)
+![T_sh4](https://user-images.githubusercontent.com/125442802/219011887-5ca2a110-48df-4b09-9f03-b7df83441ad0.JPG)
+![T_sh5](https://user-images.githubusercontent.com/125442802/219011889-1a32831e-5ada-418a-a883-0b24558597f3.JPG)
