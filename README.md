@@ -14,11 +14,11 @@ minimus 1GB Micro-SD Card that fits the Display Shield
 
 a 24pin ZIF Socket
 
+
+
 Setting Up and Programming
 
-Format the SDCard as FAT/FAT32 Filesystem
-
-Copy the database (database.txt) into the root folder of the SDCard. Plug the SDCard into the TFT shield and connect the Arduino Mega to the computer. Start the Arduino IDE. Check you have the following librarys installed (Tools -> Library Manager): MCUFRIEND_kbv (try the Adafruit_ILI9341 if the display doesn't work). Adafruit GFX Library (included the Bus Library as well). Adafruit Touchscreen. SD_patched (download from above, includes Arduino Mega Software SPI fix. Select the proper Arduino Mega 2560 under Tools -> Board -> Arduino AVR Boards. Select the correct COM port for upload. Compile and Upload the sketch. Enjoy
+Format the SDCard as FAT/FAT32 Filesystem. Copy the database (database.txt) into the root folder of the SDCard. Plug the SDCard into the TFT shield and connect the Arduino Mega to the computer. Start the Arduino IDE. Check you have the following librarys installed (Tools -> Library Manager): MCUFRIEND_kbv (try the Adafruit_ILI9341 if the display doesn't work). Adafruit GFX Library (included the Bus Library as well). Adafruit Touchscreen. SD_patched (download from above, includes Arduino Mega Software SPI fix. Select the proper Arduino Mega 2560 under Tools -> Board -> Arduino AVR Boards. Select the correct COM port for upload. Compile and Upload the sketch. Enjoy
 
 Sorry !!! Some elements may be incorrectly defined. I didn't have a certain number of items available to check. I took them from someone else's database. Write me what needs to be corrected or added and I will do it!
 
