@@ -14,7 +14,7 @@ minimus 1GB Micro-SD Card that fits the Display Shield
 
 a 24pin ZIF Socket
 
-
+About me https://vk.com/club213056471
 
 Setting Up and Programming
 
