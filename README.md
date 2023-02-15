@@ -27,3 +27,4 @@ Sorry !!! Some elements may be incorrectly defined. I didn't have a certain numb
 ![IMG_20230215_110504](https://user-images.githubusercontent.com/125442802/218992560-fb521b8e-3ba6-456c-8207-80a8bde3cc70.jpg)
 ![IMG_20230214_171314](https://user-images.githubusercontent.com/125442802/218992592-ac4c552b-92b6-413c-94f2-3022ff81f729.jpg)
 ![IMG_20230215_110015](https://user-images.githubusercontent.com/125442802/218992615-31f2f07c-8dc0-4256-814f-a39f6b36293a.jpg)
+![chema](https://user-images.githubusercontent.com/125442802/219010059-06ef8665-d7e7-4588-9baa-fc446a42ca23.jpg)
