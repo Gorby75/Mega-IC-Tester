@@ -23,4 +23,8 @@ Select the proper Arduino Mega 2560 under Tools -> Board -> Arduino AVR Boards
 Select the correct COM port for upload
 Compile and Upload the sketch
 Enjoy
-Sorry !!! Some elements may be incorrectly defined. I didn't have a certain number of items available to check. I took them from someone else's database. Write me what needs to be corrected or added and I will do it
+Sorry !!! Some elements may be incorrectly defined. I didn't have a certain number of items available to check. I took them from someone else's database. Write me what needs to be corrected or added and I will do it![IMG_20230215_110331](https://user-images.githubusercontent.com/125442802/218992424-ceb1f64f-07d8-49f0-8b6a-7ff79fe6c02c.jpg)
+![IMG_20230215_110453](https://user-images.githubusercontent.com/125442802/218992539-fc5e0c3b-e121-41ba-be4e-5aa2780b78f2.jpg)
+![IMG_20230215_110504](https://user-images.githubusercontent.com/125442802/218992560-fb521b8e-3ba6-456c-8207-80a8bde3cc70.jpg)
+![IMG_20230214_171314](https://user-images.githubusercontent.com/125442802/218992592-ac4c552b-92b6-413c-94f2-3022ff81f729.jpg)
+![IMG_20230215_110015](https://user-images.githubusercontent.com/125442802/218992615-31f2f07c-8dc0-4256-814f-a39f6b36293a.jpg)
