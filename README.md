@@ -1,4 +1,5 @@
 IC Tester for the classic CMOS and TLL ICs with Touch Display
+
 It will be very useful who collects clones and analogues of the Zx Spectrum and similar vintage consoles)))
 
 based code on Frank Hellmann, 2019 http://www.gotohellmann.com/ & original idea Akshay Bawejas http://www.akshaybaweja.com/ https://github.com/akshaybaweja/Smart-IC-Tester
